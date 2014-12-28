@@ -11,7 +11,7 @@ import android.telephony.SmsManager;
 import android.telephony.SmsMessage;
 
 /**
- * 
+ * ss
  * @author panyi
  * 
  */
